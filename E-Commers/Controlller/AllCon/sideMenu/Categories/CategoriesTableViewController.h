@@ -1,0 +1,13 @@
+//
+//  CategoriesTableViewController.h
+//  E-Commers
+//
+//  Created by Codefrux Training on 24/10/16.
+//  Copyright © 2016 codefruxTechonology. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface CategoriesTableViewController : UITableViewController
+
+@end

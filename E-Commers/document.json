@@ -1,0 +1,570 @@
+{
+    "res":[
+           {
+           "keyIndent": "0",
+           "keyTitle": "Electronics",
+           "keyChildren": [
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Mobiles",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Mobile Accessories",
+                           "keyChildren": [
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Mobile Cases",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Power Banks",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Headphones",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Memory Cards",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "On the Go Pen Drives",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Cables",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Explore all Accessories",
+                                           "keyChildren": []
+                                           }
+                                           ]
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "SmartWatches & wearables",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Televisions",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Audio & Video",
+                           "keyChildren": [
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "All Audio & Video",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Speakers",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Home Theaters",
+                                           "keyChildren": []
+                                           }
+                                           ]
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Large Appliances",
+                           "keyChildren": [
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Refrigerators",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "washing Machines",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Air Corditioners",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Microwave Ovans",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Chimneys",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Dish Washers",
+                                           "keyChildren": []
+                                           }
+                                           ]
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Small Home Appliances",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Kitchen Appliances",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Laptop",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Tablets",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Computer Accessories",
+                           "keyChildren": [
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Hard Disks",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Routers",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Pen Drives",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Printers, Inks & More",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Explore More",
+                                           "keyChildren": []
+                                           }
+                                           ]
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Cameras & Accessories",
+                           "keyChildren": [
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "All Cameras",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "DSLR",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Action & Lifestyle",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Lens",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "All Accessories",
+                                           "keyChildren": []
+                                           }
+                                           ]
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Personal Care appliances",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "health Care",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Gaming",
+                           "keyChildren": [
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Video Games",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Gaming Hardware",
+                                           "keyChildren": []
+                                           }
+                                           ]
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Smart Home Automation",
+                           "keyChildren": []
+                           }
+                           ]
+           },
+           {
+           "keyIndent": "0",
+           "keyTitle": "Lifestyle",
+           "keyChildren": [
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Men",
+                           "keyChildren": [
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Footwear",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Clothing",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Watches",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Bags Belts wallets",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Eyewear",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Grooming & Wellness",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Fragrances",
+                                           "keyChildren": []
+                                           }
+                                           ]
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Women",
+                           "keyChildren": [
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Clothing",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Footwear",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Beauty & Wellness",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Fragrances",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Handbags & Clutches",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Watches",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Jewellery",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Eyewear",
+                                           "keyChildren": []
+                                           }
+                                           ]
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Kids & Baby",
+                           "keyChildren": [
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Kid Clothing",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Toys & Games",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Baby Care",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Kids Footware",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "School Supplies",
+                                           "keyChildren": []
+                                           }
+                                           ]
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Personal Care Appliances",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Health Care",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Sport & Fitness",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Food & Nutrition",
+                           "keyChildren": [
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Health & Nutrition",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Gourmet & Specialty Foods",
+                                           "keyChildren": []
+                                           }
+                                           ]
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Luggage and Travel",
+                           "keyChildren": []
+                           }
+                           ]
+           },
+           {
+           "keyIndent": "0",
+           "keyTitle": "Home and Furniture",
+           "keyChildren": [
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Furniture",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Kitchen & Dining",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Home Furnishing",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Home Decor",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Tools & Hardware",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Lighting",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Home Cleaning & Organisation",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Household Supplies",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Pet Supplies",
+                           "keyChildren": []
+                           }
+                           ]
+           },
+           {
+           "keyIndent": "0",
+           "keyTitle": " Books & More",
+           "keyChildren": [
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Books",
+                           "keyChildren": [
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "What India Reads",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Literature and Fiction",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Non-Fiction",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Entrance Exam Preparation",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Children and Teens",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "School",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Higher Education",
+                                           "keyChildren": []
+                                           },
+                                           {
+                                           "keyIndent": "2",
+                                           "keyTitle": "Other Genres",
+                                           "keyChildren": []
+                                           }
+                                           ]
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Musical Instruments",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Music & Movies",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Pens and Stationery",
+                           "keyChildren": []
+                           }
+                           ]
+           },
+           {
+           "keyIndent": "0",
+           "keyTitle": "automotive",
+           "keyChildren": [
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Biker Accessories & Helmets",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Car Electronics & Accessories",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Car & Bike Care",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Car Interior & Exterior",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Tyres",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Lighting & styling",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Spares & Breakdown",
+                           "keyChildren": []
+                           },
+                           {
+                           "keyIndent": "1",
+                           "keyTitle": "Lubricants & Oils",
+                           "keyChildren": []
+                           }
+                           ]
+           },
+           {
+           "keyIndent": "0",
+           "keyTitle": "Gift Card",
+           "keyChildren": []
+           },
+           {
+           "keyIndent": "0",
+           "keyTitle": "Stores",
+           "keyChildren": []
+           }
+           ]
+}
